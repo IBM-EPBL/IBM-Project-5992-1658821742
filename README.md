@@ -1,7 +1,7 @@
 # IBM-Project "PNT2022TMID20861"
 # Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy
 # Team Members :
-* Kannthimathi V - 412419205036
+* Kanthimathi V - 412419205036
 * Keerthana sri meena S - 412419205040
 * Lekhashree M - 412419205048
 * Yogapriya D - 412419205102
