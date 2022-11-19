@@ -13,5 +13,4 @@ Transfer learning has become one of the most common techniques that has achieved
 * Know how to build a web application using the Flask framework. 
 
 # TECHNICAL ARCHITECTURE
-https://lh3.googleusercontent.com/gJPEFmKRXHReF2Bo7NkjLPYICiPKRTDzs8oiSUiE0HVcqNq4EO3NJb_T5yN43UuS-gWBzd6yHoJvvYXj2spd_aHH_IskMeATBWBKg2CR3ZuEXGWCPnNdPQDDR8QYBg
 ![image](https://user-images.githubusercontent.com/113235181/202856321-45c7f265-6ee9-422e-8682-2c1dbe294230.png)
