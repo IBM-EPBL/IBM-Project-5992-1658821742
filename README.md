@@ -1,6 +1,6 @@
 # IBM-Project "PNT2022TMID20861"
 # Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy
-#Team Members :
+# Team Members :
 Kannthimathi V - 412419205036
 Keerthana sri meena S - 412419205040
 Lekhashree M - 412419205048
@@ -15,7 +15,18 @@ Transfer learning has become one of the most common techniques that has achieved
 
 * Know how to pre-process/clean the data using different data pre-processing techniques.
 
-* Know how to build a web application using the Flask framework. 
+* Know how to build a web application using the Flask framework.
+# Project Flow
+
+The user interacts with the UI (User Interface) to choose the image. The chosen image analyzed by the model which is integrated with flask application. The Xception Model analyzes the image, then the prediction is showcased on the Flask UI.
+
+To accomplish this
+
+Data Collection
+Data Preprocessing
+Model Building
+Cloudant DB
+Application Building 
 
 # TECHNICAL ARCHITECTURE
 ![image](https://user-images.githubusercontent.com/113235181/202856321-45c7f265-6ee9-422e-8682-2c1dbe294230.png)
